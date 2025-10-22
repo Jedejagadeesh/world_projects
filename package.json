@@ -10,12 +10,12 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Jedejagadeesh/treebridge.git"
-  },
+"repository": {
+  "type": "git",
+  "url": "https://github.com/Jedejagadeesh/world_projects.git"
+},
   "author": "Jede Jagadeesh",
   "license": "MIT",
   "dependencies": {
@@ -34,7 +34,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://Jedejagadeesh.github.io/EcoConnect",
+  "homepage": "https://Jagadeesh123.github.io/world_projects",
   "date": "2025-10-21",
   "keywords": [
     "react",
