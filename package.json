@@ -10,7 +10,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+"deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://Jedejagadeesh.github.io/treebridge",
+  "homepage": "https://Jedejagadeesh.github.io/EcoConnect",
   "date": "2025-10-21",
   "keywords": [
     "react",
