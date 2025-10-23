@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/world_projects/static/css/main.a6b19646.css",
-    "main.js": "/world_projects/static/js/main.cff71aa7.js",
-    "index.html": "/world_projects/index.html",
-    "main.a6b19646.css.map": "/world_projects/static/css/main.a6b19646.css.map",
-    "main.cff71aa7.js.map": "/world_projects/static/js/main.cff71aa7.js.map"
+    "main.css": "/greenature/static/css/main.38ffd570.css",
+    "main.js": "/greenature/static/js/main.32972543.js",
+    "index.html": "/greenature/index.html",
+    "main.38ffd570.css.map": "/greenature/static/css/main.38ffd570.css.map",
+    "main.32972543.js.map": "/greenature/static/js/main.32972543.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6b19646.css",
-    "static/js/main.cff71aa7.js"
+    "static/css/main.38ffd570.css",
+    "static/js/main.32972543.js"
   ]
 }
